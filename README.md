@@ -72,7 +72,7 @@ I then added the `alt` attribute to all the `<img>` tags so that I can name them
 ```
 This allows the image to be better accesible because it has a description.
 
-I then began looking at the `style.css` file and noticed that a lot of the css rule sets were redundant. Some of them were created sperate however contained the exact same declartions. To simplify this I combined the class selectors into one rule set based on what was the same. For example 
+I then began looking at the `style.css` file and noticed that a lot of the css rule sets were redundant. Some of them were created sperate however contained the exact same declarations. To simplify this I combined the class selectors into one rule set based on what was the same. For example 
 
 ```css
 .benefit-lead, .benefit-brand, .benefit-cost
