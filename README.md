@@ -85,3 +85,5 @@ The commas specify each new class selector that will use the declarations specif
 
 You can view the working site here [Code Refactor](https://nkrilis.github.io/Code-Refactor/)
 Thank you :smiley:
+
+![Code Refactor](./assets/images/01-html-css-git-homework-demo.png)
